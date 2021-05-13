@@ -7,6 +7,7 @@ step 2: create the docker fine in github, e.g.: kube-scheduler/v1.20.0-alpha.0.t
 step 3: connect docker hub to github
 
 step 4: create docker repository in hub.docker.com, one docker repository for one k8s dockerfile
+
 step 5: configure the build of the repository
 
 
